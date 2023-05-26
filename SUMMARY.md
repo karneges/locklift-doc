@@ -3,12 +3,16 @@
 ## Locklift
 
 * [💡 Overview](README.md)
-* [✨ Our Features](locklift/our-features.md)
+* [🚀 Getting started](locklift/getting-started.md)
+* [💬 CLI commands](locklift/cli-commands.md)
+* [⚙ Configuration](locklift/configuration.md)
+* [🚅 Tracing](locklift/tracing.md)
+* [🐛 Debugging](locklift/debugging.md)
 
-## Product Guides
+## Guides
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [🥇 Run your first build and test](guides/run-your-first-build-and-test.md)
+* [🧪 Testing contracts](guides/testing-contracts.md)
 
 ## Fundamentals
 
